@@ -19,4 +19,9 @@ Built a dynamic business of Bars and Chocolates dashboard in Excel using pivot t
 
 8. How does performance change when selecting different filters (Product, Region, Category)?
 
-   https://github.com/UzmaNahid/Dynamic-Business-Dashboard/blob/main/Dynamic%20Business%20Dashboard.xlsx
+    Dashboard interaction <a href="https://github.com/UzmaNahid/Dynamic-Business-Dashboard/blob/main/Dynamic%20Business%20Dashboard.xlsx"> view dashboard</a>
+    
+<img width="1042" height="429" alt="Dynamic Business Dashboard" src="https://github.com/user-attachments/assets/1d033217-a171-424a-85c5-36c257782b9c" />
+
+## Conclusion
+The dynamic business dashboard provides a complete view of sales, profitability, and product performance. The interactive design makes it easy to analyze trends, compare products, and identify top-performing salespeople. These insights support smarter decisions in sales planning, product strategy, and business growth
