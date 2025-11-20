@@ -19,4 +19,4 @@ Built a dynamic business of Bars and Chocolates dashboard in Excel using pivot t
 
 8. How does performance change when selecting different filters (Product, Region, Category)?
 
-   
+   https://github.com/UzmaNahid/Dynamic-Business-Dashboard/blob/main/Dynamic%20Business%20Dashboard.xlsx
